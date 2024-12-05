@@ -1,0 +1,51 @@
+# FastAPI
+fastapi
+uvicorn
+
+# Data Analysis
+pandas
+numpy
+
+# Database
+sqlalchemy
+pymysql
+
+# Image Processing
+Pillow
+pillow-heif
+opencv-python
+
+# AWS S3
+boto3
+
+# Machine Learning
+torch
+torchvision
+supervision
+timm
+transformers
+diffusers
+onnxruntime
+
+# Weather Data
+meteostat
+
+# Geography
+geopy
+
+# Similarity Calculations
+scipy
+
+# Environment Variables
+python-dotenv
+
+# Utilities and Others
+addict
+requests
+setuptools
+termcolor
+PyYAML
+yapf
+
+piexif
+python-multipart
